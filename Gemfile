@@ -45,3 +45,9 @@ group :development do
   gem 'spring'
 end
 
+# use clearance for user managament 
+gem 'clearance'
+
+# use Figaro to protect privacy
+gem 'figaro'
+
