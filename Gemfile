@@ -51,3 +51,9 @@ gem 'clearance'
 # use Figaro to protect privacy
 gem 'figaro'
 
+#integrate external API
+gem 'omniauth'
+
+#integrate omniauth facebook with clearance
+gem 'omniauth-facebook'
+
